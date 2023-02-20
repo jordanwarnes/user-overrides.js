@@ -1,6 +1,6 @@
 user_pref("keyword.enabled", true);
 user_pref("extensions.pocket.enabled", false);
-user_pref("identity.fxaccounts.enabled", false);
+user_pref("identity.fxaccounts.enabled", true);
 user_pref("places.history.enabled", false);
 user_pref("javascript.options.baselinejit", false);
 user_pref("layout.spellcheckDefault", 0);
